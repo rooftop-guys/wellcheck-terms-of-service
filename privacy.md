@@ -2,6 +2,8 @@
 layout: page
 title: "잘지내지 개인정보 처리방침"
 permalink: /privacy/
+published: false
+# Mini app (guardian) draft. Publish when mini app v2 launches.
 ---
 
 - 버전: 1.0

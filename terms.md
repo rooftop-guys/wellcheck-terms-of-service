@@ -2,6 +2,8 @@
 layout: page
 title: "잘지내지 이용약관"
 permalink: /terms/
+published: false
+# Mini app (guardian) draft. Publish when mini app v2 launches.
 ---
 
 - 버전: 2.0
