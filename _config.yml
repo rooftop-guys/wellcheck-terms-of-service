@@ -1,3 +1,11 @@
-title: Wellcheck Terms of Service
+title: 잘지내지
+lang: ko
 theme: minima
 markdown: kramdown
+# Cloudflare Pages serves the site at the domain root. Set url to the final domain once it is decided.
+baseurl: ""
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
