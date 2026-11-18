@@ -1,3 +1,12 @@
-title: Wellcheck Terms of Service
+title: 잘지내지
+lang: ko
 theme: minima
 markdown: kramdown
+url: https://wellcheck.rooftopguys.com
+baseurl: ""
+contact_email: wellcheck-support@rooftopguys.com
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
