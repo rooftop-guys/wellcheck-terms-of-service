@@ -2,12 +2,16 @@
 
 Privacy policy and terms of service for 잘지내지 (well-check v2). Korean only.
 
-| Page | Source | Path |
-| --- | --- | --- |
-| Index | `index.md` | `/` |
-| Privacy policy | `privacy.md` | `/privacy/` |
-| Terms of service | `terms.md` | `/terms/` |
-| Previous terms (2026-02-18, v1 alimtalk service) | `archive/terms-2026-02-18.md` | `/terms/2026-02-18/` |
+| Page | Source | Path | Status |
+| --- | --- | --- | --- |
+| Index | `index.md` | `/` | published |
+| Signal app privacy policy | `signal-app/privacy.md` | `/signal-app/privacy/` | published |
+| Signal app terms of service | `signal-app/terms.md` | `/signal-app/terms/` | published |
+| Mini app (guardian) privacy policy v1.0 draft | `privacy.md` | `/privacy/` | `published: false` until mini app v2 launches |
+| Mini app (guardian) terms of service v2.0 draft | `terms.md` | `/terms/` | `published: false` until mini app v2 launches |
+| Mini app terms 2026-02-18 (v1 alimtalk service, still in force for the mini app) | `archive/terms-2026-02-18.md` | `/terms/2026-02-18/` | published |
+
+Scope split (user decision 2026-11-18): the Android signal app ships first with its own documents covering only the phone owner. The mini app documents cover the guardian and are published together with mini app v2; when they go live, remove `published: false`, link them from `index.md`, and keep the signal-app documents consistent with them.
 
 ## Hosting
 
