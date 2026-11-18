@@ -11,7 +11,7 @@ Privacy policy and terms of service for 잘지내지 (well-check v2). Korean onl
 
 ## Hosting
 
-Cloudflare Pages, connected to this GitHub repository (not GitHub Pages). Domain: `https://wellcheck.rooftopguys.com` (custom domain on the `rooftopguys.com` Cloudflare zone). Contact address `wellcheck@rooftopguys.com` is a Cloudflare Email Routing address forwarded to the company customer-service mailbox; both values live in `_config.yml`.
+Cloudflare Pages, connected to this GitHub repository (not GitHub Pages). Domain: `https://wellcheck.rooftopguys.com` (custom domain on the `rooftopguys.com` Cloudflare zone). Customer-support address `wellcheck-support@rooftopguys.com` is a Cloudflare Email Routing address forwarded to the representative's Gmail inbox; both values live in `_config.yml`.
 
 - Production branch: `main`
 - Framework preset: Jekyll

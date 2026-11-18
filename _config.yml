@@ -4,7 +4,7 @@ theme: minima
 markdown: kramdown
 url: https://wellcheck.rooftopguys.com
 baseurl: ""
-contact_email: wellcheck@rooftopguys.com
+contact_email: wellcheck-support@rooftopguys.com
 exclude:
   - Gemfile
   - Gemfile.lock
